@@ -1,0 +1,10 @@
+*.exe
+*.obj
+*.o
+*.bin
+*.txt
+!sample.txt
+!info.txt
+!text.txt
+!numbers.txt
+!students.txt
